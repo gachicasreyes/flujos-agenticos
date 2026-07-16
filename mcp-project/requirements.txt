@@ -1,0 +1,7 @@
+arxiv
+fastmcp
+mcp
+nest_asyncio
+openai
+python-dotenv
+tavily-python
